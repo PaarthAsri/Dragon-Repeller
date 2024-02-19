@@ -1,0 +1,44 @@
+body {
+    
+    background-image:url(https://w0.peakpx.com/wallpaper/891/462/HD-wallpaper-video-game-illusion-connect-blur.jpg);
+    background-size: cover;}
+#text {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+  #game {
+    max-width: 650px;
+    max-height: 550px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 20px;}
+
+#controls {
+    border: 3px solid black;
+    padding: 15px;}
+
+#stats {
+    border: 3px solid black;
+    color: black;
+    padding: 15px;}
+
+#monsterStats {
+    display: none;
+    border: 3px solid black;
+    color: white;
+    padding: 15px;
+    background-color: red;
+}
+
+.stat {
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+#controls button{
+  padding: 9px;
+  font-size: 15px;
+}
